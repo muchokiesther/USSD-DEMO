@@ -1,0 +1,15 @@
+C:\new_projects\examples\saf_demo\bin\Debug\net7.0\saf_demo.exe
+C:\new_projects\examples\saf_demo\bin\Debug\net7.0\saf_demo.deps.json
+C:\new_projects\examples\saf_demo\bin\Debug\net7.0\saf_demo.runtimeconfig.json
+C:\new_projects\examples\saf_demo\bin\Debug\net7.0\saf_demo.dll
+C:\new_projects\examples\saf_demo\bin\Debug\net7.0\saf_demo.pdb
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.csproj.AssemblyReference.cache
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.AssemblyInfoInputs.cache
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.AssemblyInfo.cs
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.csproj.CoreCompileInputs.cache
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.dll
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\refint\saf_demo.dll
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.pdb
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\saf_demo.genruntimeconfig.cache
+C:\new_projects\examples\saf_demo\obj\Debug\net7.0\ref\saf_demo.dll
